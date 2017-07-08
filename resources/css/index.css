@@ -19,3 +19,15 @@ html {
   font-weight: 300;
   font-size: 42px;
 }
+
+.footer {
+  text-align: right;
+}
+
+.gray {
+  color: gray;
+}
+
+.subtext {
+  font-size: 21px;
+}
